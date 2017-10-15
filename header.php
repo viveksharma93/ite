@@ -84,7 +84,7 @@
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/index.php' ? ' active' : '');?>"><a href="index.php">Home</a></li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] ==  CONTEXT.'/about-us.php' ? ' active' : '');?>"><a href="about-us.php">About Us</a></li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] ==  CONTEXT.'/services.php' ? ' active' : '');?>"><a href="services.php">Services</a></li>
-                        <li class="dropdown <?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/courses.php' ? ' active' : '');?>">
+                        <li class="dropdown <?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/rhcsa.php' ? ' active' : '');?>">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Courses
                               <i class="fa fa-angle-down"></i>
                             </a>
