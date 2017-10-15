@@ -3,7 +3,7 @@
         <div class="container">
            <div class="center wow fadeInDown">
                 <h2>Our Services</h2>
-                <p class="lead">We provide the following services.</p>
+                <p class="lead">We provide the various types of services in different domains like training, consulting, web and app development.</p>
             </div>
 
             <div class="row">
