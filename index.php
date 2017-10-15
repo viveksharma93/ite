@@ -216,7 +216,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Ansible</h3>
-                            <p>Automation with Ansible (D0407)</p>
+                            <p>Configure Red Hat Enterprise Linux using Ansible (D0407)</p>
                         </div>
                     </div>
                 </div>
