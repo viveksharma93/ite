@@ -1,0 +1,9 @@
+/*.center-text tr,th{
+  text-align: center;
+}*/
+.white-text{
+  color: #fff;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
