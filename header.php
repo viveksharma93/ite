@@ -75,7 +75,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="index.php">
-                      <img src="images/logo.png" alt="logo">
+                      <img width="220"  src="images/logo.png" alt="logo">
                     </a>
                 </div>
 
