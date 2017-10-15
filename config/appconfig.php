@@ -1,3 +1,3 @@
 <?php
-define("CONTEXT", "/ite");
+define("CONTEXT", "/itesupport.herokuapp.com");
  ?>
