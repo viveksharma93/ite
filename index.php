@@ -100,13 +100,13 @@
                         <div class="feature-wrap">
                             <i class="fa fa-comments"></i>
                             <h2>Online Training</h2>
-                            <h3>Linux Training as per your convienance</h3>
+                            <h3>Online linux Training as per your convienance</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-cloud-download"></i>
+                            <i class="fa fa-users"></i>
                             <h2>Onsite Training</h2>
                             <h3>Linux Training for corporate sector</h3>
                         </div>
@@ -114,15 +114,15 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-leaf"></i>
+                            <i class="fa fa-desktop"></i>
                             <h2>Linux Certifications</h2>
-                            <h3>RedHat Certifications in Linux</h3>
+                            <h3>Conduct RedHat Certifications Exam at ITE</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-cogs"></i>
+                            <i class="fa fa-suitcase"></i>
                             <h2>Placement</h2>
                             <h3>Placement assistance for RedHat Certified candidate</h3>
                         </div>
@@ -130,7 +130,7 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-heart"></i>
+                            <i class="fa fa-cogs"></i>
                             <h2>Consulting</h2>
                             <h3>Consulting services for students, corporates</h3>
                         </div>
@@ -139,6 +139,92 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#feature-->
+
+    <section id="services" class="service-item">
+	   <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Popular Certification Courses</h2>
+                <p class="lead">Get enroll in the following popular certification courses in IT industry and staying a step ahead from others. <br></p>
+            </div>
+
+            <div class="row">
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive"  width="73" height="72"  src="images/services/openstack.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">OpenStack</h3>
+                            <p>RedHat Certified System Administrator in OpenStack</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" width="73" height="72" src="images/services/openshift.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">OpenShift</h3>
+                            <p>OpenShift Enterprise Administration</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" width="73" height="72" src="images/services/dockers.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Docker</h3>
+                            <p>Containerizing Software Applications</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive"  width="73" height="112" src="images/services/kubernete.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Kubernete</h3>
+                            <p>Containerizing Software Applications (DO276)</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive"   width="73" height="72" src="images/services/glusterfs.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">RHGSA</h3>
+                            <p>Red Hat Gluster Storage Administration (RH236)</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive"  width="73" height="72" src="images/services/ansible.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Ansible</h3>
+                            <p>Automation with Ansible (D0407)</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#services-->
+
 
     <section id="recent-works">
         <div class="container">
@@ -290,7 +376,7 @@
                           </div> -->
 
                           <div class="panel panel-default">
-                            <div class="panel-heading">
+                            <div class="panel-heading active">
                               <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">
                                   Training on Redhat certified courses
@@ -298,7 +384,7 @@
                                 </a>
                               </h3>
                             </div>
-                            <div id="collapseThree1" class="panel-collapse collapse">
+                            <div id="collapseThree1" class="panel-collapse collapse in">
                               <div class="panel-body">
                                 We provide practical training on RedHat certified courses. Our training methology is different from others institute. We clarify the each and every concept of linux, so that they are able handle different types of critical situations in exam. Successfully delivered linux training to corporate sectors. We give training on hindi and english language. Online training on linux is also available as per your conveinance.
                               </div>
@@ -389,11 +475,11 @@
 
             <div class="partners">
                 <ul>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="images/partners/partner1.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="images/partners/partner2.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="images/partners/partner3.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="images/partners/partner4.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/partner5.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="images/partners/redhat.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="images/partners/hcl.png"></a></li>
+                    <li> <a href="#"><img width="165" height="45" class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="images/partners/capgemini.png"></a></li>
+                    <li> <a href="#"><img  width="165" height="45" class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="images/partners/cognizant.png"></a></li>
+                    <li> <a href="#"><img width="165" height="45" class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/infosys.png"></a></li>
                 </ul>
             </div>
         </div><!--/.container-->

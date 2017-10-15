@@ -20,13 +20,13 @@
                         <div class="feature-wrap">
                             <i class="fa fa-comments"></i>
                             <h2>Online Training</h2>
-                            <h3>Linux Training as per your convienance</h3>
+                            <h3>Online linux Training as per your convienance</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-cloud-download"></i>
+                            <i class="fa fa-users"></i>
                             <h2>Onsite Training</h2>
                             <h3>Linux Training for corporate sector</h3>
                         </div>
@@ -34,15 +34,15 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-heart"></i>
+                            <i class="fa fa-desktop"></i>
                             <h2>Linux Certifications</h2>
-                            <h3>RedHat Certifications in Linux</h3>
+                            <h3>Conduct RedHat Certifications Exam at ITE</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-cogs"></i>
+                            <i class="fa fa-suitcase"></i>
                             <h2>Placement</h2>
                             <h3>Placement assistance for RedHat Certified candidate</h3>
                         </div>
@@ -50,7 +50,7 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-leaf"></i>
+                            <i class="fa fa-cogs"></i>
                             <h2>Consulting</h2>
                             <h3>Consulting services for students, corporates</h3>
                         </div>

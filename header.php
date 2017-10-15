@@ -96,7 +96,7 @@
                             </ul>
                         </li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/batches.php' ? ' active' : '');?>"><a href="batches.php">Batches</a></li>
-                        <li class="<?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/achievements.php' ? ' active' : '');?>"><a href="achievements.php">Achievements</a></li>
+                        <li class="<?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/achievements.php' ? ' active' : '');?>"><a href="achievements.php">Gallery</a></li>
                         <!-- <li class="<?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/blog.php' ? ' active' : '');?>"><a href="#">Blog</a></li> -->
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == CONTEXT.'/contact-us.php' ? ' active' : '');?>"><a href="contact-us.php">Contact</a></li>
                     </ul>
